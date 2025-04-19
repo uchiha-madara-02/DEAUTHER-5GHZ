@@ -7,10 +7,10 @@
 - Thay bằng 3 thư viện màn hình mình để ở trên
 
 * Sơ đồ chân 
-- Buttons
-  + Up Button: PA27
-  + Down Button: PA12
-  + Select Button: PA13
-- SSD1306 128x64 .96inch Display
-  + SDA: PA26
-  + SCL: PA25
+  - Buttons
+    + Up Button: PA27
+    + Down Button: PA12
+    + Select Button: PA13
+  - SSD1306 128x64 .96inch Display
+    + SDA: PA26
+    + SCL: PA25
