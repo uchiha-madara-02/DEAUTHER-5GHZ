@@ -5,7 +5,8 @@
 - Anh em vào phần thư viện tìm 3 thư mục này 
 <img width="812" alt="Image" src="https://github.com/user-attachments/assets/6e854bcf-017d-4b47-affb-a6de34617fab" />
 - Thay bằng 3 thư viện màn hình mình để ở trên
-Sơ đồ chân 
+
+* Sơ đồ chân 
 - Buttons
   + Up Button: PA27
   + Down Button: PA12
