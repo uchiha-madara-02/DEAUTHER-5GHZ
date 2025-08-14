@@ -9,3 +9,5 @@
 
 <img width="522" height="311" alt="sơ đồ bw16 deauther" src="https://github.com/user-attachments/assets/f2995748-6dd9-4138-8755-ba266459e87c" />
 
+https://github.com/user-attachments/assets/7884d3bc-82d6-4d39-bb19-d95d3a083710
+
