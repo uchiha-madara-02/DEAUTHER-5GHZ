@@ -11,3 +11,8 @@
 
 https://github.com/user-attachments/assets/403d96ce-08eb-45dd-99b3-8ad3d730bd37
 
+# Sơ đồ V3.5
+
+<img width="1222" height="610" alt="image" src="https://github.com/user-attachments/assets/cc4051bc-73a0-45df-870f-f8ab95685c44" />
+
+
