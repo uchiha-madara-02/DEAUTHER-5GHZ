@@ -15,4 +15,9 @@ https://github.com/user-attachments/assets/403d96ce-08eb-45dd-99b3-8ad3d730bd37
 
 <img width="1222" height="610" alt="image" src="https://github.com/user-attachments/assets/cc4051bc-73a0-45df-870f-f8ab95685c44" />
 
+# Sơ đồ thêm đo pin cho v3.6
+
+<img width="887" height="366" alt="image" src="https://github.com/user-attachments/assets/aef73048-e7e0-4ad2-b51b-c336db62ed20" />
+
+
 
