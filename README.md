@@ -5,6 +5,8 @@
 
 # LƯU Ý 
 * Ban đầu nó sẽ chạy biểu cảm dasai clone để vào chế độ tấn công phải nhấn giữ nút OK 3s.
+* Nhấn giữ OK 3s để thoát.
+* Nếu anh em không lắp đo pin thì không nên nạp bản đo pin nha, bản đó mình có code nếu pin yếu thì nó dẽ dừng toàn bộ chương trình nên anh em lưu ý.
 # Sơ đồ 
 
 <img width="522" height="311" alt="sơ đồ bw16 deauther" src="https://github.com/user-attachments/assets/f2995748-6dd9-4138-8755-ba266459e87c" />
