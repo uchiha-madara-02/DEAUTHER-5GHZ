@@ -4,7 +4,7 @@ Dự án sử dụng module BW16 để thực hiện các kỹ thuật kiểm th
 
 ## 📺 Hướng dẫn nạp Code
 Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác **Nam Nobi** nhé:
-👉 [Xem video hướng dẫn tại đây](https://www.youtube.com/watch?v=q96H-Iu4dwS)
+👉 [Xem video hướng dẫn tại đây](https://youtu.be/q96H-Iu4dWs?si=2UGkc-Wj9JI2bgHl)
 
 ---
 
