@@ -18,7 +18,10 @@ Dưới đây là sơ đồ kết nối chân giữa BW16 và các module ngoạ
 
 ### 🎞 Video Review PCB
 
-![Video PCB](./Sơ đồ/478689208-403d96ce-08eb-45dd-99b3-8ad3730bd37.mp4)
+<video src="./Sơ đồ/478689208-403d96ce-08eb-45dd-99b3-8ad3730bd37.mp4" controls width="100%" style="max-height:600px;">
+  Trình duyệt của bạn không hỗ trợ xem video trực tiếp. Bạn có thể 
+  <a href="./Sơ đồ/478689208-403d96ce-08eb-45dd-99b3-8ad3730bd37.mp4">nhấn vào đây để tải video</a>.
+</video>
 
 ---
 
