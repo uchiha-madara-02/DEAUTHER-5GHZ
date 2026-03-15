@@ -18,7 +18,10 @@ Dưới đây là sơ đồ kết nối chân giữa BW16 và các module ngoạ
 
 ### 🎞 Video Review PCB
 
-https://github.com/user-attachments/assets/403d96ce-08eb-45dd-99b3-8ad3730bd37
+<div align="center">
+  <video src="[LINK_VIDEO_RAW](https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96ce-08eb-45dd-99b3-8ad3d730bd37.mp4)" controls width="100%" style="max-width: 800px;">
+  </video>
+</div>
 
 ---
 
