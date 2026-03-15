@@ -1,22 +1,33 @@
-# Deauther wifi 5ghz code tiếng việt
+# 📡 Deauther WiFi 5GHz - Code Tiếng Việt
 
-* Anh em xem cách nạp file .bin cho BW16 ở kênh bác Nam Nobi nhé:
-* https://www.youtube.com/watch?v=q96H-Iu4dWs
+Dự án sử dụng module BW16 để thực hiện các kỹ thuật kiểm thử bảo mật mạng WiFi băng tần 5GHz.
 
-# LƯU Ý 
-* Ban đầu nó sẽ chạy biểu cảm dasai clone để vào chế độ tấn công phải nhấn giữ nút OK 3s.
-* Nhấn giữ OK 3s để thoát.
-* Nếu anh em không lắp đo pin thì không nên nạp bản đo pin nha, bản đó mình có code nếu pin yếu thì nó dẽ dừng toàn bộ chương trình nên anh em lưu ý.
-# Sơ đồ 
+## 📺 Hướng dẫn nạp Code
+Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác **Nam Nobi** nhé:
+👉 [Xem video hướng dẫn tại đây](https://www.youtube.com/watch?v=q96H-Iu4dwS)
 
-<img width="522" height="311" alt="sơ đồ bw16 deauther" src="https://github.com/user-attachments/assets/f2995748-6dd9-4138-8755-ba266459e87c" />
+---
 
-https://github.com/user-attachments/assets/403d96ce-08eb-45dd-99b3-8ad3d730bd37
+## 🛠 Sơ đồ đấu nối (Schematic)
 
-# Sơ đồ
+Dưới đây là sơ đồ kết nối chân giữa BW16 và các module ngoại vi:
 
-<img width="1002" height="599" alt="image" src="https://github.com/user-attachments/assets/c34b8da2-b9ca-4976-8d52-d1e406598a7a" />
+| Sơ đồ nguyên lý | Sơ đồ lắp đặt thực tế |
+| :---: | :---: |
+| <img src="./Sơ đồ/SO_DO_1.png" width="450"> | <img src="./Sơ đồ/SO_DO_2.png" width="450"> |
 
+### 🎞 Video Review PCB
 
+![Video PCB](./Sơ đồ/478689208-403d96ce-08eb-45dd-99b3-8ad3730bd37.mp4)
 
+---
 
+## ⚠️ Lưu ý quan trọng (Lưu ý kỹ trước khi dùng)
+
+* **Chế độ hoạt động:** Khi vừa khởi động, mạch sẽ chạy biểu cảm "Dasai Clone". Để vào chế độ tấn công, bạn cần **nhấn giữ nút OK trong 3 giây**.
+* **Thoát chế độ:** Để thoát ra ngoài, tiếp tục **nhấn giữ nút OK trong 3 giây**.
+* **Về tính năng đo Pin:** * Nếu anh em **không lắp mạch đo pin**, tuyệt đối không nạp bản có code đo pin.
+    * Lý do: Khi pin yếu hoặc không có tín hiệu pin, code sẽ tự động dừng toàn bộ chương trình để bảo vệ hệ thống, khiến mạch bị treo.
+
+---
+*Chúc anh em vọc vạch vui vẻ! Nếu thấy hay hãy cho dự án 1 Star nhé.*
