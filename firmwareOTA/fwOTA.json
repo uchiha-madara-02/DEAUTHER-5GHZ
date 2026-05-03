@@ -1,1 +1,18 @@
-
+[
+  {
+    "name": "Phien ban 1.1 - Co ban",
+    "path": "v1_1/km0_km4_image2.bin"
+  },
+  {
+    "name": "Phien ban 2.2 - Sua loi",
+    "path": "v2_2/km0_km4_image2.bin"
+  },
+  {
+    "name": "Phien ban 3.3 - Sua loi",
+    "path": "v3_3/km0_km4_image2.bin"
+  },
+  {
+    "name": "Phien ban 4.2 - Hoan chinh",
+    "path": "v4_2/km0_km4_image2.bin"
+  }
+]
