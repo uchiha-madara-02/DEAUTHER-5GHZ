@@ -26,7 +26,7 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 # Nếu anh em không có key nó sẽ hiện như này:
 
-[![Nếu anh em không có key nó sẽ hiện như này](./Media/Error.jpg)](./Media/Error.mp4)
+[![Nếu anh em không có key nó sẽ hiện như này](./Media/Error.jpg)](./Media/Erro.mp4)
 
 ---
 
