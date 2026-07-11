@@ -24,7 +24,7 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 ## ⚠️ Anh em lưu ý, bản v4.3 trở đi sẽ cần có key mới hoạt động được nhé!
 
-# Nếu anh em không có key nó sẽ hiện như này:
+### Nếu anh em không có key nó sẽ hiện như này:
 
 <img src="./Media/Error.jpg" width="450"> | <img src="./Media/Error.gif" width="450"> 
 
