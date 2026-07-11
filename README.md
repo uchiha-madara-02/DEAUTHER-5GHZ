@@ -12,9 +12,9 @@ Anh em xem cách nạp file `.bin` chi tiết cho module BW16 tại kênh bác *
 
 Dưới đây là sơ đồ kết nối chân giữa BW16 và các module ngoại vi:
 
-| v2 | v3.6 trở đi |
+| v2 | v3.6 trở đi | v4.3 trở đi |
 | :---: | :---: |
-| <img src="./Sơ đồ/SO_DO_1.png" width="450"> | <img src="./Sơ đồ/SO_DO_2.png" width="450"> |
+| <img src="./Sơ đồ/SO_DO_1.png" width="450"> | <img src="./Sơ đồ/SO_DO_2.png" width="450"> | <img src="./Sơ đồ/SO_DO_2.png" width="450"> |
 
 ### 🎞 Video Review PCB
 
