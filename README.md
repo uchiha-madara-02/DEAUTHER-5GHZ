@@ -26,7 +26,7 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 # Nếu anh em không có key nó sẽ hiện như này:
 
-| <img src="./Media/Error.jpg" width="450"> | <video src="./Media/Error.mp4" width="450"> |
+| <img src="./Media/Error.jpg" width="450"> | <video src="./Media/Error.gif" width="450"> |
 
 ---
 
