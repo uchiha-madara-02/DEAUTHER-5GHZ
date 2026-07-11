@@ -28,6 +28,12 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 <img src="./Media/Error.jpg" width="450"> | <img src="./Media/Error.gif" width="450"> 
 
+### Anh em mua key thì liên hệ:
+
+| Uchiha Madara | Mr.khang102 |
+| :---: | :---: |
+| [<img src="./Sơ đồ/SO_DO_1.png" width="450">](https://www.tiktok.com/@devilmask_oni) | [<img src="./Sơ đồ/SO_DO_2.png" width="450">](https://www.tiktok.com/@dr.khang102) |
+
 ---
 
 ## ⚠️ Lưu ý quan trọng (Lưu ý kỹ trước khi dùng)
