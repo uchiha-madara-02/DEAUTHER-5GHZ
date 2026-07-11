@@ -42,7 +42,9 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 ## 🎥 Các video test:
 
-| ![Test-1](https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-1.mp4) | https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-2.mp4 | https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-3.mp4 |
+https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-1.mp4
+https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-2.mp4
+https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-3.mp4 
 
 ---
 
