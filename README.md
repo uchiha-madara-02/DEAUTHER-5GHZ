@@ -22,6 +22,12 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 ---
 
+## ⚠️ Anh em lưu ý, bản v4.3 trở đi sẽ cần có key mới hoạt động được nhé!
+
+
+
+---
+
 ## ⚠️ Lưu ý quan trọng (Lưu ý kỹ trước khi dùng)
 
 * **Chế độ hoạt động:** Khi vừa khởi động, mạch sẽ chạy biểu cảm "Dasai Clone". Để vào chế độ tấn công, bạn cần **nhấn giữ nút OK trong 3 giây**.
