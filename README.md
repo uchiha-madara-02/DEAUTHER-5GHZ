@@ -29,8 +29,9 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 <img src="./Media/Error.jpg" width="450"> | <img src="./Media/Error.gif" width="450"> 
 
 ### Anh em mua key thì liên hệ:
-> ### 💰 Giá: 40k / 1 key
-> **Lưu ý:** Key được định danh, chỉ dùng được duy nhất cho **1 thiết bị BW16**.
+### 💳 Thông tin thanh toán:
+`Giá sản phẩm: 40.000 VNĐ / 1 Key`
+*(Áp dụng cho 1 thiết bị BW16 duy nhất)*
  - Anh em nhấn vào ảnh ở dưới sẽ dẫn tới link tiktok.
 
 | Uchiha Madara | Mr.khang102 |
