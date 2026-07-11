@@ -42,8 +42,7 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 ### 🎥 Video Demo sản phẩm:
 
-### 🎥 Video Demo
-[<img src="link_ảnh_thumbnail_của_bạn" width="500">](https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-1.mp4)
+https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-1.mp4
 
 ---
 
