@@ -40,12 +40,6 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 ---
 
-### 🎥 Video Demo sản phẩm:
-
-https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/Media/test-1
-
----
-
 ## ⚠️ Lưu ý quan trọng (Lưu ý kỹ trước khi dùng)
 
 * **Chế độ hoạt động:** Khi vừa khởi động, mạch sẽ chạy biểu cảm "Dasai Clone". Để vào chế độ tấn công, bạn cần **nhấn giữ nút OK trong 3 giây**.
