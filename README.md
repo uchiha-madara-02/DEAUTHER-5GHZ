@@ -29,10 +29,12 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 <img src="./Media/Error.jpg" width="450"> | <img src="./Media/Error.gif" width="450"> 
 
 ### Anh em mua key thì liên hệ:
+ - Giá key sẽ là 40k 1 key và chỉ dùng được cho di nhất 1 BW16.
+ - Anh em nhấn vào ảnh ở dưới sẽ dẫn tới link tiktok.
 
 | Uchiha Madara | Mr.khang102 |
 | :---: | :---: |
-| [<img src="./Sơ đồ/SO_DO_1.png" width="450">](https://www.tiktok.com/@devilmask_oni) | [<img src="./Sơ đồ/SO_DO_2.png" width="450">](https://www.tiktok.com/@dr.khang102) |
+| [<img src="./Media/UchihaMadara.png" width="450">](https://www.tiktok.com/@devilmask_oni) | [<img src="./Media/Mr.khang102.png" width="450">](https://www.tiktok.com/@dr.khang102) |
 
 ---
 
