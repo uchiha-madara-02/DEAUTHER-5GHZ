@@ -22,25 +22,6 @@ https://github.com/uchiha-madara-02/DEAUTHER-5GHZ/blob/main/PCB/478689208-403d96
 
 ---
 
-## ⚠️ Anh em lưu ý, bản v4.3 trở đi sẽ cần có key mới hoạt động được nhé!
-
-### Nếu anh em không có key nó sẽ hiện như này:
-
-<img src="./Media/Error.jpg" width="450"> 
-<img src="./Media/Error.gif" width="450"> 
-
-### Anh em mua key thì liên hệ:
-> ### 💰 Giá: 40k / 1 key
-> **Lưu ý:** Key được định danh, chỉ dùng được duy nhất cho **1 thiết bị BW16**.
-### 🎥 Ghé thăm kênh TikTok của chúng mình:
-*👉 Nhấn vào hình ảnh để xem chi tiết:*
-
-| Uchiha Madara | Mr.khang102 |
-| :---: | :---: |
-| [<img src="./Media/UchihaMadara.png" width="450">](https://www.tiktok.com/@devilmask_oni) | [<img src="./Media/Mr.khang102.png" width="450">](https://www.tiktok.com/@dr.khang102) |
-
----
-
 ## ⚠️ Lưu ý quan trọng (Lưu ý kỹ trước khi dùng)
 
 * **Chế độ hoạt động:** Khi vừa khởi động, mạch sẽ chạy biểu cảm "Dasai Clone". Để vào chế độ tấn công, bạn cần **nhấn giữ nút OK trong 3 giây**.
